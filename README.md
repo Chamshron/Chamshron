@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Emma Cameron
+Emma Cameron 👩🏻‍💻
 Junior Software Developer with a IT Customer Support background.
 
 <!--
