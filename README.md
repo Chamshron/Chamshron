@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Emma Cameron 👩🏻‍💻
-Junior Software Developer with a IT Customer Support background.
+
+A career-channging Junior Software Developer with a background in IT Customer Support.
 
 <!--
 **Chamsron/Chamsron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
