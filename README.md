@@ -3,8 +3,11 @@
 Emma Cameron 👩🏻‍💻
 
 A career-channging Junior Software Developer with a background in IT Customer Support.
+
 🔭 I’m currently working on completing the CodeClan 16 week professional software deveopment course.
+
 🌱 I’m currently learning Java, JavaScript, Python, and CSS.
+
 😄 Pronouns: She/Her/Hers
 
 <!--
