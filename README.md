@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emma Cameron | Is mise Emma Chamshron👩🏻‍💻
+I'm Emma Cameron👩🏻‍💻
 
 A career-channging Junior Software Developer with a background in IT Customer Support.
 <br>
