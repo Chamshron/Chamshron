@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Emma Cameron || Is mise Emma Chamshron</h1>
+<br>
 - 🔭 I’m currently working on [Subway Samurai](https://github.com/Dannycarey23/SubwaySamurai_frontend)
-- 🌱 I’m currently learning **Typescript**
-
+<br>
+- 🌱 I’m currently learning Typescript
+<br>
 - 📫 How to reach me **emmacameron219@gmail.com**
 - ⚡ Fun fact **I practice a martial arts called Kendo and currently coach university students.**
 
