@@ -1,24 +1,7 @@
-### Hi there 👋
-
-I'm Emma Cameron | Is mise Emma Chamshron 👩🏻‍💻
-
-A career-channging Junior Software Developer with a background in IT Customer Support.
-<br>
-🔭 I’m currently working on completing the CodeClan 16 week professional software deveopment course.
-<br>
-🌱 I’m currently learning Java, JavaScript, Python, and CSS.
-<br>
-😄 Pronouns: She/Her/Hers
-
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Emma Cameron || Is mise Emma Chamshron</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chamshron&label=Profile%20views&color=0e75b6&style=flat" alt="Chamshron" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chamshron&theme=" alt="Chamshron" /></a> </p>
-
 - 🔭 I’m currently working on [Subway Samurai](https://github.com/Dannycarey23/SubwaySamurai_frontend)
 - 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **emmacameron219@gmail.com**
 - ⚡ Fun fact **I practice a martial arts called Kendo and currently coach university students.**
 
@@ -57,17 +40,3 @@ A career-channging Junior Software Developer with a background in IT Customer Su
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<!--
-**Chamsron/Chamsron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
