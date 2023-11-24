@@ -9,6 +9,7 @@ A career-channging Junior Software Developer with a background in IT Customer Su
 🌱 I’m currently learning Java, JavaScript, Python, and CSS.
 <br>
 😄 Pronouns: She/Her/Hers
+https://img.shields.io/badge/Java-8A2BE2
 
 <!--
 **Chamsron/Chamsron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
