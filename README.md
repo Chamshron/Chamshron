@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emma Cameron || Is mise Emma Chamshron</h1>
 - 🔭 I’m currently working on [Subway Samurai](https://github.com/Dannycarey23/SubwaySamurai_frontend)
 - 🌱 I’m currently learning **Typescript**
+
 - 📫 How to reach me **emmacameron219@gmail.com**
 - ⚡ Fun fact **I practice a martial arts called Kendo and currently coach university students.**
 
