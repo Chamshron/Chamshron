@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emma Cameron</h1>
 <h3 align="center">Is mise Emma Chamshron</h3>
 <h3 align="center">CodeClan/CodeBase Graduate</h3>
-- 🔭 I’ve just finished working on Subway Samurai
+- 🔭 I'm looking for a project to further my understanding of Java.
 <br>
 - 🌱 I’m currently learning Typescript
 <br>
