@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Emma Cameron</h1>
 <h3 align="center">Is mise Emma Chamshron</h3>
-<h4 align="center">Please excuse the lack of activity this month (April), I'm currently obtaining my coaching qualification! </h4>
+<h4 align="center">Please excuse the lack of activity this month (April/Early May), I'm currently obtaining my coaching qualification! </h4>
 - 🔭 I'm looking for an oppurtunity to further my understanding of coding
 <br>
 - 🌱 I’m currently learning Typescript
